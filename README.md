@@ -235,7 +235,5 @@ GitHub: https://github.com/sanskaryk
 LinkedIn: https://www.linkedin.com/in/sanskargupta1/
 Email: sanskargupta.codes@gmail.com
 
-```
-
 ---
 
